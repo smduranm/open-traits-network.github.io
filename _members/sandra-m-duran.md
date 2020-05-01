@@ -2,7 +2,7 @@
 layout: member
 id: sandra-m-duran
 name: Sandra M Duran
-email: smduranm@email.arizona.edu
+email: smduranm@gmail.com
 homepage: https://sandramduran.wordpress.com/
 lat: 32.228858
 long: -110.955406
